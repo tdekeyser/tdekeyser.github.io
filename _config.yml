@@ -19,7 +19,7 @@ title: Tom De Keyser # the main title
 tagline: Notes on offensive security, cloud, and the systems in between. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  I'm a software engineer, cloud engineer, and security researcher with a decade of experience
+  I'm a software engineer, cloud engineer, and security researcher with lots of experience
   building production systems before turning to breaking them. My background spans data platforms,
   distributed software, and multi-cloud architecture (AWS, Azure, Scaleway).
 
