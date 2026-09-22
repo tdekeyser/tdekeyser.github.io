@@ -9,7 +9,7 @@ comments: false
 
 ![](/assets/img/piece1.jpg)
 
-European cloud providers are drawing serious attention as a mature alternative to the traditional hyperscalers, driven by data-sovereignty demands and a desire to reduce dependence on US platforms. [Scaleway](www.scaleway.com) sits among the largest of them.
+European cloud providers are drawing serious attention as a mature alternative to the traditional hyperscalers, driven by data-sovereignty demands and a desire to reduce dependence on US platforms. [Scaleway](https://www.scaleway.com) sits among the largest of them.
 
 That maturity hasn't been matched by public security research. There is very little independent security work on Scaleway, and almost none on its IAM model. That gap matters: it's the public, community-driven scrutiny that hardens a platform over time, both for the provider and for the people building on top of it. This piece is a step toward closing it.
 
